@@ -1,4 +1,4 @@
-## Hi there, I'm Fausto 👋 I'm a Husband, Father, Developer, and Teacher!
+## Hi there, I'm Fausto 👋 I'm a Backend Developer and Musician!
 
 - 🔭 I’m currently working at Avalith as a Backend Developer
 - 🌱 I'm currently learning about Reactive Programing
