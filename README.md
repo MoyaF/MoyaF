@@ -1,6 +1,6 @@
 ## Hi there, I'm Fausto 👋 I'm a Backend Developer and Musician!
 
-- 🔭 I’m currently working at Avalith as a Kotlin Backend Developer
+- 🔭 I’m currently working at Ualá as a Java Backend Developer
 - 🌱 I'm currently learning about Reactive Programing
 - ⚡ Fun fact: I love to play guitar
 
