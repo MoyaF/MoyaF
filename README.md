@@ -1,6 +1,6 @@
 ## Hi there, I'm Fausto 👋 I'm a Backend Developer and Musician!
 
-- 🔭 I’m currently working at Mercado Libre as a Software Engineer
+- 🔭 I’m currently working at WAES as a Software Engineer
 - 🌱 I'm currently learning about Reactive Programing
 - ⚡ Fun fact: I love to play guitar
 
