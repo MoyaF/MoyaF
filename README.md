@@ -1,29 +1,14 @@
-## Hi there, I'm Fausto 👋 I'm a Backend Developer and Musician!
+# 💫 About Me:
+Engineer by skill and creator at heart, I've spent years designing, developing, and deploying software. I've contributed to projects across various fields, from e-commerce to container shipping planning, from fintech to food delivery. Whether in a startup where the tech team could fit in a single car or at a tech giant serving millions of users, I've been passionate about building solutions that make an impact.<br><br>Thanks to my career, I had the opportunity to embark on an exciting journey of migration. I left my beloved 🇦🇷 Argentina to embrace new experiences, meet incredible people, and immerse myself in the rich culture of 🇳🇱 The Netherlands.<br><br>I'm currently a software engineer at Ahold Delhaize, where I focus on modernizing internal tools, delivering high-quality software, and driving business value at a rapid pace. Before this, I worked at Routescanner, helping customers reduce CO2 emissions by optimizing their trade lanes with our innovative engine. I've also contributed to other notable organizations like Mercado Libre, Ualá, and Rappi.<br><br>I also dedicate time to tutoring university students in programming, databases, and testing.
 
-- 🔭 I’m currently working at WAES as a Software Engineer
-- 🌱 I'm currently learning about Reactive Programing
-- ⚡ Fun fact: I love to play guitar
 
-### Connect with me:
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/feed/) 
 
-<br />
+# 💻 Tech Stack:
+![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white) ![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black) ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![Neo4J](https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
-### Languages and Tools:
+---
+[![](https://visitcount.itsvg.in/api?id=MoyaF&icon=0&color=4)](https://visitcount.itsvg.in)
 
-<img align="left" alt="Java" width="26px" src="https://seeklogo.com/images/J/java-logo-7F8B35BAB3-seeklogo.com.png" />
-<img align="left" alt="Kotlin" width="26px" src="https://seeklogo.com/images/K/kotlin-logo-30C1970B05-seeklogo.com.png" />
-<img align="left" alt="Spring" width="26px" src="https://seeklogo.com/images/S/spring-logo-9A2BC78AAF-seeklogo.com.png" />
-<img align="left" alt="ReactiveX" width="26px" src="https://seeklogo.com/images/R/reactivex-logo-D0FB68B710-seeklogo.com.png" />
-<img align="left" alt="Project Reactor" width="26px" src="https://avatars2.githubusercontent.com/u/4201559?s=280&v=4" />
-<img align="left" alt="Docker" width="26px" src="https://seeklogo.com/images/D/docker-logo-CF97D0124B-seeklogo.com.png" />
-<img align="left" alt="Maven" width="26px" src="https://simpleicons.org/icons/apachemaven.svg" />
-<img align="left" alt="Gradle" width="26px" src="https://seeklogo.com/images/G/gradle-logo-AFA2BBCB65-seeklogo.com.png" />
-<img align="left" alt="Kafka" width="26px" src="https://simpleicons.org/icons/apachekafka.svg" />
-
-<br />
-<br />
-
-[instagram]: https://www.instagram.com/moyagram_/
-[linkedin]:https://www.linkedin.com/in/fausto-moya/
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
